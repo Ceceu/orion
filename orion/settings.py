@@ -54,7 +54,7 @@ SCHEDULER_MEMORY_QUEUE = 'scrapy.squeues.FifoMemoryQueue'
 
 
 # close
-CLOSESPIDER_ITEMCOUNT = 5000
+CLOSESPIDER_ITEMCOUNT = 1000000
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
